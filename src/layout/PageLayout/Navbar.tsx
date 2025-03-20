@@ -17,7 +17,7 @@ const StyledMenuItem = styled(Menu.Item)<MenuItemProps & any>`
     background-color: #f7f7f7;
   }
 `;
-
+  
 const StyledNavbar = styled.nav`
   display: flex;
   justify-content: space-between;
